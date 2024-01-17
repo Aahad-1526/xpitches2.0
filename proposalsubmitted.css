@@ -1,0 +1,301 @@
+.xpitches4 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 572px);
+    font-size: var(--font-size-3xl);
+    text-transform: capitalize;
+    cursor: pointer;
+  }
+  .account,
+  .explore-more-projects {
+    position: absolute;
+    top: 11px;
+    left: calc(50% + 472px);
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .explore-more-projects {
+    top: 497px;
+    left: calc(50% - 56px);
+  }
+  .features2 {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 393px);
+  }
+  .find-the-best4,
+  .pricing4,
+  .resources4 {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 280px);
+  }
+  .find-the-best4,
+  .pricing4 {
+    left: calc(50% - 152px);
+  }
+  .find-the-best4 {
+    top: 26px;
+    left: calc(50% - 573px);
+    font-size: var(--font-size-5xs);
+    text-transform: capitalize;
+    font-family: var(--font-rock-salt);
+  }
+  .nav-bar-child1,
+  .nav-bar-inner {
+    position: absolute;
+    top: 3px;
+    left: calc(50% + 432px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-gainsboro-200);
+    border: 1px solid var(--color-gray-500);
+    box-sizing: border-box;
+    width: 141px;
+    height: 36px;
+    cursor: pointer;
+  }
+  .nav-bar-child1 {
+    top: 489px;
+    left: calc(50% - 100px);
+    width: 245px;
+  }
+  .nav-bar2,
+  .vector-icon10,
+  .vector-icon9 {
+    position: absolute;
+    top: 19px;
+    left: calc(50% - 326.39px);
+    width: 10.01px;
+    height: 8px;
+  }
+  .nav-bar2,
+  .vector-icon10 {
+    left: calc(50% - 200.22px);
+  }
+  .nav-bar2 {
+    top: 45px;
+    left: calc(50% - 524px);
+    width: 1146px;
+    height: 525px;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+  }
+  .side-bar-icon2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 720px);
+    width: 140px;
+    height: 9480px;
+  }
+  .tick-1-icon {
+    position: absolute;
+    top: 163px;
+    left: 585px;
+    width: 377px;
+    height: 283px;
+    object-fit: cover;
+  }
+  .proposal-submitted-successfull {
+    position: absolute;
+    top: 464px;
+    left: calc(50% - 242px);
+    font-size: var(--font-size-21xl);
+    text-transform: capitalize;
+    color: #20bef0;
+  }
+  .desktop-18-child,
+  .desktop-18-item {
+    position: absolute;
+    border-radius: var(--br-6xl);
+  }
+  .desktop-18-child {
+    top: 911px;
+    left: calc(50% - 527px);
+    background-color: var(--color-powderblue);
+    border: 1px solid var(--color-gray-600);
+    box-sizing: border-box;
+    width: 1149px;
+    height: 61px;
+  }
+  .desktop-18-item {
+    top: 923px;
+    left: calc(50% + 368px);
+    background-color: var(--color-white);
+    width: 217px;
+    height: 38px;
+  }
+  .earn-30-commission2,
+  .join-us-now2 {
+    position: absolute;
+    top: 932px;
+    left: calc(50% + 432px);
+    font-size: var(--font-size-base);
+    text-transform: capitalize;
+    font-weight: 600;
+    color: var(--color-black);
+  }
+  .earn-30-commission2 {
+    left: calc(50% - 512px);
+    font-size: var(--font-size-lgi);
+  }
+  .company2,
+  .compare2,
+  .find-the-best5,
+  .legal2,
+  .resources5,
+  .tools2,
+  .xpitches5 {
+    position: absolute;
+    top: 611px;
+    left: calc(50% - 524px);
+    font-size: var(--font-size-11xl);
+    text-transform: capitalize;
+    color: var(--color-black);
+  }
+  .company2,
+  .compare2,
+  .find-the-best5,
+  .legal2,
+  .resources5,
+  .tools2 {
+    top: 618px;
+    left: calc(50% - 74px);
+    font-size: var(--font-size-3xl);
+  }
+  .company2,
+  .compare2,
+  .find-the-best5,
+  .legal2,
+  .resources5 {
+    left: calc(50% + 41px);
+  }
+  .company2,
+  .compare2,
+  .find-the-best5,
+  .legal2 {
+    left: calc(50% + 207px);
+  }
+  .compare2,
+  .find-the-best5,
+  .legal2 {
+    left: calc(50% + 362px);
+  }
+  .compare2,
+  .find-the-best5 {
+    left: calc(50% + 477px);
+  }
+  .find-the-best5 {
+    top: 649px;
+    left: calc(50% - 524px);
+    font-size: var(--font-size-5xs);
+    font-family: var(--font-rock-salt);
+  }
+  .blog2,
+  .contact-us2,
+  .security3 {
+    position: absolute;
+    top: 668px;
+    left: calc(50% + 41px);
+  }
+  .contact-us2,
+  .security3 {
+    left: calc(50% + 207px);
+  }
+  .security3 {
+    left: calc(50% + 362px);
+  }
+  .data-processing2 {
+    margin: 0;
+  }
+  .about-us2,
+  .data-processing-agreement-container2 {
+    position: absolute;
+    top: 697px;
+    left: calc(50% + 362px);
+  }
+  .about-us2 {
+    left: calc(50% + 207px);
+  }
+  .carrers2,
+  .enterprises2,
+  .help-centres2,
+  .pricing5 {
+    position: absolute;
+    top: 726px;
+    left: calc(50% + 207px);
+  }
+  .carrers2,
+  .enterprises2,
+  .pricing5 {
+    top: 755px;
+  }
+  .carrers2,
+  .enterprises2 {
+    top: 784px;
+  }
+  .carrers2 {
+    top: 813px;
+    left: calc(50% + 208px);
+  }
+  .privacy-policy2,
+  .terms2 {
+    position: absolute;
+    top: 987px;
+    left: calc(50% + 285px);
+    font-size: var(--font-size-xs);
+  }
+  .privacy-policy2 {
+    left: calc(50% + 360px);
+  }
+  .guide-to-xpitches2,
+  .mini-courses2 {
+    position: absolute;
+    top: 697px;
+    left: calc(50% + 41px);
+  }
+  .mini-courses2 {
+    top: 726px;
+  }
+  .xpitches-inc-all2 {
+    position: absolute;
+    top: 989px;
+    left: calc(50% - 512px);
+    font-size: var(--font-size-xs);
+  }
+  .instagram-icon2 {
+    position: absolute;
+    top: 979px;
+    left: 1242px;
+    width: 40px;
+    height: 27px;
+    object-fit: cover;
+  }
+  .facebook-icon2 {
+    position: absolute;
+    top: 979px;
+    left: 1217px;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    opacity: 0.7;
+  }
+  .linkedin-icon2 {
+    position: absolute;
+    top: 979px;
+    left: 1276px;
+    width: 31px;
+    height: 27px;
+    object-fit: cover;
+  }
+  .desktop-18 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-mid);
+    color: var(--color-gray-700);
+    font-family: var(--font-roboto);
+  }
+  

@@ -1,0 +1,636 @@
+.xpitches16 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 572px);
+    font-size: var(--font-size-3xl);
+    text-transform: capitalize;
+    cursor: pointer;
+  }
+  .get-started5 {
+    left: calc(50% + 461px);
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .features5,
+  .get-started5,
+  .log-in2 {
+    position: absolute;
+    top: 12px;
+  }
+  .log-in2 {
+    left: calc(50% + 342px);
+    text-transform: lowercase;
+    font-weight: 600;
+  }
+  .features5 {
+    left: calc(50% - 393px);
+  }
+  .find-the-best16,
+  .resources10 {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 280px);
+  }
+  .find-the-best16 {
+    top: 26px;
+    left: calc(50% - 573px);
+    font-size: var(--font-size-5xs);
+    text-transform: capitalize;
+    font-family: var(--font-rock-salt);
+  }
+  .nav-bar-child4 {
+    position: absolute;
+    top: 3px;
+    left: calc(50% + 432px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-gainsboro-200);
+    border: 1px solid var(--color-gray-500);
+    box-sizing: border-box;
+    width: 141px;
+    height: 36px;
+    cursor: pointer;
+  }
+  .nav-bar5,
+  .vector-icon17,
+  .vector-icon18 {
+    position: absolute;
+    top: 19px;
+    left: calc(50% - 326.39px);
+    width: 10.01px;
+    height: 8px;
+  }
+  .nav-bar5,
+  .vector-icon18 {
+    left: calc(50% - 200.22px);
+  }
+  .nav-bar5 {
+    top: 52px;
+    left: calc(50% - 521px);
+    width: 1146px;
+    height: 45px;
+    font-size: var(--font-size-base);
+  }
+  .side-bar-icon5 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 720px);
+    width: 140px;
+    height: 9480px;
+  }
+  .compare-plans,
+  .find-right-talent {
+    position: absolute;
+    font-size: var(--font-size-41xl);
+    text-transform: capitalize;
+  }
+  .find-right-talent {
+    top: 207px;
+    left: calc(50% - 470px);
+    display: inline-block;
+    width: 856px;
+    height: 88px;
+  }
+  .compare-plans {
+    top: 1107px;
+    left: calc(50% - 140px);
+  }
+  .desktop-8-child {
+    position: absolute;
+    top: 2104px;
+    left: calc(50% - 5px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-palegoldenrod-200);
+    width: 141px;
+    height: 36px;
+  }
+  .get-started6 {
+    position: absolute;
+    top: 2113px;
+    left: calc(50% + 24px);
+    font-size: var(--font-size-base);
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .desktop-8-item {
+    position: absolute;
+    top: 526px;
+    left: calc(50% - 465px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-lightcyan);
+    width: 335px;
+    height: 485px;
+  }
+  .desktop-8-child1,
+  .desktop-8-child2,
+  .desktop-8-inner,
+  .desktop-8-item {
+    border: 1px solid var(--color-gray-600);
+    box-sizing: border-box;
+  }
+  .desktop-8-inner {
+    position: absolute;
+    top: 493px;
+    left: calc(50% - 105px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-lavenderblush);
+    width: 335px;
+    height: 518px;
+  }
+  .desktop-8-child1,
+  .desktop-8-child2 {
+    top: 526px;
+  }
+  .desktop-8-child1 {
+    position: absolute;
+    left: calc(50% + 255px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-palegoldenrod-100);
+    width: 335px;
+    height: 485px;
+  }
+  .desktop-8-child2 {
+    left: calc(50% - 105px);
+    height: 137px;
+  }
+  .desktop-8-child2,
+  .desktop-8-child3,
+  .desktop-8-child4 {
+    position: absolute;
+    background-color: var(--color-white);
+    width: 335px;
+  }
+  .desktop-8-child3 {
+    top: 558px;
+    left: calc(50% - 465px);
+    border: 1px solid var(--color-gray-600);
+    box-sizing: border-box;
+    height: 137px;
+  }
+  .desktop-8-child4 {
+    top: 551px;
+    left: calc(50% + 255px);
+    height: 152px;
+  }
+  .div2,
+  .div3,
+  .free1,
+  .most-popular1 {
+    position: absolute;
+    top: 503px;
+    left: calc(50% - 80px);
+    font-size: var(--font-size-3xs);
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .div2,
+  .div3,
+  .free1 {
+    top: 715px;
+    left: calc(50% - 442px);
+    font-size: var(--font-size-21xl);
+  }
+  .div2,
+  .div3 {
+    top: 681px;
+    left: calc(50% - 81px);
+  }
+  .div3 {
+    top: 715px;
+    left: calc(50% + 279px);
+  }
+  .unlimited-blocks-for1 {
+    margin: 0;
+  }
+  .unlimited-blocks-for-container1 {
+    position: absolute;
+    top: 762px;
+    left: calc(50% - 439px);
+    color: var(--color-gray-700);
+  }
+  .create-the-best1,
+  .find-the-pitcher1,
+  .on-time-delivery1,
+  .per-user-container2 {
+    position: absolute;
+    top: 857px;
+    left: calc(50% - 416px);
+    color: var(--color-gray-700);
+  }
+  .create-the-best1,
+  .on-time-delivery1,
+  .per-user-container2 {
+    top: 878px;
+  }
+  .on-time-delivery1,
+  .per-user-container2 {
+    top: 900px;
+  }
+  .per-user-container2 {
+    top: 691px;
+    left: calc(50% - 25px);
+  }
+  .billed-monthly2,
+  .billed-monthly3,
+  .per-user-container3 {
+    position: absolute;
+    top: 724px;
+    left: calc(50% + 359px);
+    color: var(--color-gray-700);
+  }
+  .billed-monthly2,
+  .billed-monthly3 {
+    top: 732px;
+    left: calc(50% - 81px);
+    display: inline-block;
+    width: 159px;
+  }
+  .billed-monthly3 {
+    top: 766px;
+    left: calc(50% + 279px);
+  }
+  .desktop-8-child5,
+  .desktop-8-child6,
+  .desktop-8-child7 {
+    position: absolute;
+    top: 804px;
+    left: calc(50% - 442px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-white);
+    width: 292px;
+    height: 26px;
+  }
+  .desktop-8-child6,
+  .desktop-8-child7 {
+    top: 770px;
+    left: calc(50% - 83px);
+  }
+  .desktop-8-child7 {
+    top: 804px;
+    left: calc(50% + 277px);
+  }
+  .buy-now,
+  .buy-now1,
+  .get-started7 {
+    position: absolute;
+    top: 807px;
+    left: calc(50% - 345px);
+    font-size: var(--font-size-base);
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .buy-now,
+  .buy-now1 {
+    top: 774px;
+    left: calc(50% + 46px);
+  }
+  .buy-now1 {
+    top: 807px;
+    left: calc(50% + 391px);
+  }
+  .done-icon3,
+  .done-icon4,
+  .done-icon5 {
+    position: absolute;
+    top: 856px;
+    left: calc(50% - 439px);
+    width: 16px;
+    height: 16px;
+    object-fit: cover;
+  }
+  .done-icon4,
+  .done-icon5 {
+    top: 877px;
+  }
+  .done-icon5 {
+    top: 899px;
+  }
+  .frequently-asked-questions1 {
+    position: absolute;
+    top: 2218px;
+    left: calc(50% - 280px);
+    font-size: var(--font-size-31xl);
+    line-height: 63px;
+    text-transform: capitalize;
+  }
+  .desktop-8-child8 {
+    position: absolute;
+    top: 2718px;
+    left: calc(50% - 433px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-powderblue);
+    width: 965px;
+    height: 523px;
+  }
+  .desktop-8-child10,
+  .desktop-8-child11,
+  .desktop-8-child9 {
+    position: absolute;
+    top: 2974px;
+    left: calc(50% - 334px);
+    border-radius: var(--br-6xl) var(--br-6xl) 0 0;
+    border: 1px solid var(--color-gray-600);
+    box-sizing: border-box;
+    width: 783px;
+    height: 267px;
+  }
+  .desktop-8-child10,
+  .desktop-8-child11 {
+    top: 2980px;
+    left: calc(50% - 327px);
+    background-color: var(--color-white);
+    width: 769px;
+    height: 261px;
+  }
+  .desktop-8-child11 {
+    top: 3693px;
+    left: calc(50% - 525px);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-powderblue);
+    width: 1149px;
+    height: 61px;
+  }
+  .desktop-8-child12,
+  .desktop-8-child13,
+  .desktop-8-child14,
+  .desktop-8-child15,
+  .desktop-8-child16 {
+    position: absolute;
+    top: 2315px;
+    left: 352px;
+    border-radius: var(--br-6xl);
+    background-color: var(--color-gainsboro-200);
+    border: 1px solid var(--color-gray-400);
+    box-sizing: border-box;
+    width: 835px;
+    height: 51px;
+  }
+  .desktop-8-child13,
+  .desktop-8-child14,
+  .desktop-8-child15,
+  .desktop-8-child16 {
+    top: 2380px;
+  }
+  .desktop-8-child14,
+  .desktop-8-child15,
+  .desktop-8-child16 {
+    top: 2445px;
+  }
+  .desktop-8-child15,
+  .desktop-8-child16 {
+    top: 2510px;
+  }
+  .desktop-8-child16 {
+    top: 2575px;
+  }
+  .vector-icon19,
+  .vector-icon20,
+  .vector-icon21,
+  .vector-icon22,
+  .vector-icon23 {
+    position: absolute;
+    top: 2337px;
+    left: calc(50% + 402px);
+    width: 10.01px;
+    height: 8px;
+  }
+  .vector-icon20,
+  .vector-icon21,
+  .vector-icon22,
+  .vector-icon23 {
+    top: 2406px;
+  }
+  .vector-icon21,
+  .vector-icon22,
+  .vector-icon23 {
+    top: 2467px;
+  }
+  .vector-icon22,
+  .vector-icon23 {
+    top: 2532px;
+  }
+  .vector-icon23 {
+    top: 2597px;
+  }
+  .ready-started-at1 {
+    position: absolute;
+    top: 2770px;
+    left: calc(50% - 289px);
+    font-size: var(--font-size-21xl);
+    line-height: 63px;
+    text-transform: capitalize;
+  }
+  .see-how-easy-container1 {
+    position: absolute;
+    top: 2833px;
+    left: calc(50% - 132px);
+    text-transform: capitalize;
+    font-family: var(--font-rock-salt);
+    color: var(--color-gray-900);
+  }
+  .desktop-8-child17,
+  .desktop-8-child18 {
+    position: absolute;
+    border-radius: var(--br-6xl);
+    background-color: var(--color-white);
+    width: 217px;
+    height: 38px;
+  }
+  .desktop-8-child17 {
+    top: 2911px;
+    left: calc(50% - 53px);
+    cursor: pointer;
+  }
+  .desktop-8-child18 {
+    top: 3705px;
+    left: calc(50% + 370px);
+  }
+  .get-started-for2,
+  .join-us-now5 {
+    font-size: var(--font-size-base);
+    font-weight: 600;
+  }
+  .get-started-for2 {
+    position: absolute;
+    top: 2920px;
+    left: calc(50% - 13px);
+    text-transform: capitalize;
+  }
+  .join-us-now5 {
+    top: 3714px;
+    left: calc(50% + 434px);
+  }
+  .earn-30-commission5,
+  .join-us-now5,
+  .xpitches17 {
+    position: absolute;
+    text-transform: capitalize;
+  }
+  .earn-30-commission5 {
+    top: 3714px;
+    left: calc(50% - 510px);
+    font-size: var(--font-size-lgi);
+    font-weight: 600;
+  }
+  .xpitches17 {
+    top: 3393px;
+    left: calc(50% - 522px);
+    font-size: var(--font-size-11xl);
+  }
+  .company6,
+  .compare5,
+  .legal5,
+  .resources11,
+  .tools5 {
+    position: absolute;
+    top: 3400px;
+    left: calc(50% - 72px);
+    font-size: var(--font-size-3xl);
+    text-transform: capitalize;
+  }
+  .company6,
+  .compare5,
+  .legal5,
+  .resources11 {
+    left: calc(50% + 43px);
+  }
+  .company6,
+  .compare5,
+  .legal5 {
+    left: calc(50% + 209px);
+  }
+  .compare5,
+  .legal5 {
+    left: calc(50% + 364px);
+  }
+  .compare5 {
+    left: calc(50% + 479px);
+  }
+  .blog5,
+  .contact-us5 {
+    position: absolute;
+    top: 3450px;
+    left: calc(50% + 43px);
+    font-size: var(--font-size-mid);
+    color: var(--color-gray-700);
+  }
+  .contact-us5 {
+    left: calc(50% + 209px);
+  }
+  .data-processing-agreement-container5,
+  .security7 {
+    left: calc(50% + 364px);
+    font-size: var(--font-size-mid);
+  }
+  .security7 {
+    position: absolute;
+    top: 3450px;
+    color: var(--color-gray-700);
+  }
+  .data-processing-agreement-container5 {
+    top: 3479px;
+  }
+  .about-us5,
+  .data-processing-agreement-container5,
+  .help-centres5 {
+    position: absolute;
+    color: var(--color-gray-700);
+  }
+  .about-us5 {
+    top: 3479px;
+    left: calc(50% + 209px);
+    font-size: var(--font-size-mid);
+  }
+  .help-centres5 {
+    top: 3508px;
+  }
+  .enterprises5,
+  .help-centres5,
+  .pricing10 {
+    left: calc(50% + 209px);
+    font-size: var(--font-size-mid);
+  }
+  .pricing10 {
+    position: absolute;
+    top: 3537px;
+    color: var(--color-gray-700);
+  }
+  .enterprises5 {
+    top: 3566px;
+  }
+  .carrers5,
+  .enterprises5,
+  .privacy-policy5,
+  .terms5 {
+    position: absolute;
+    color: var(--color-gray-700);
+  }
+  .carrers5 {
+    top: 3595px;
+    left: calc(50% + 210px);
+    font-size: var(--font-size-mid);
+  }
+  .privacy-policy5,
+  .terms5 {
+    top: 3769px;
+    left: calc(50% + 287px);
+  }
+  .privacy-policy5 {
+    left: calc(50% + 362px);
+  }
+  .guide-to-xpitches5 {
+    top: 3479px;
+    left: calc(50% + 43px);
+    font-size: var(--font-size-mid);
+  }
+  .guide-to-xpitches5,
+  .mini-courses5,
+  .xpitches-inc-all5 {
+    position: absolute;
+    color: var(--color-gray-700);
+  }
+  .mini-courses5 {
+    top: 3508px;
+    left: calc(50% + 43px);
+    font-size: var(--font-size-mid);
+  }
+  .xpitches-inc-all5 {
+    top: 3771px;
+    left: calc(50% - 510px);
+  }
+  .instagram-icon5 {
+    position: absolute;
+    top: 3761px;
+    left: 1244px;
+    width: 40px;
+    height: 27px;
+    object-fit: cover;
+  }
+  .facebook-icon5 {
+    position: absolute;
+    top: 3761px;
+    left: 1219px;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    opacity: 0.7;
+  }
+  .linkedin-icon5 {
+    position: absolute;
+    top: 3761px;
+    left: 1278px;
+    width: 31px;
+    height: 27px;
+    object-fit: cover;
+  }
+  .desktop-8 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 3876px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  

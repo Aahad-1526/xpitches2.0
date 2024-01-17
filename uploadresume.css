@@ -1,0 +1,200 @@
+.find-the-best10,
+.xpitches10 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 50px);
+  text-transform: capitalize;
+}
+.find-the-best10 {
+  top: 26px;
+  left: calc(50% - 51px);
+  font-size: var(--font-size-5xs);
+  font-family: var(--font-rock-salt);
+}
+.xpitches-parent {
+  position: absolute;
+  top: 72px;
+  left: calc(50% - 607px);
+  width: 102px;
+  height: 45px;
+  opacity: 0.8;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+}
+.desktop-14-child {
+  position: absolute;
+  top: 655px;
+  left: 120px;
+  width: 260.01px;
+  height: 3px;
+}
+.desktop-14-child1,
+.desktop-14-inner,
+.desktop-14-item {
+  position: absolute;
+  top: 656px;
+  left: 380px;
+  width: 260.01px;
+  height: 3px;
+}
+.desktop-14-child1,
+.desktop-14-inner {
+  top: 657px;
+  left: 640px;
+}
+.desktop-14-child1 {
+  top: 658px;
+  left: 900px;
+}
+.lets-add-your {
+  top: 323px;
+  left: calc(50% - 491px);
+  font-size: var(--font-size-13xl);
+  width: 505px;
+  height: 47px;
+}
+.job-post,
+.lets-add-your,
+.xpitches-help-companies {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.job-post {
+  top: 288px;
+  left: calc(50% - 491px);
+  font-size: var(--font-size-xs);
+  font-family: var(--font-rock-salt);
+  color: var(--color-gray-900);
+  width: 258px;
+  height: 30px;
+}
+.xpitches-help-companies {
+  top: 434px;
+  left: 226px;
+  line-height: 25px;
+  color: var(--color-gray-700);
+  width: 521px;
+}
+.desktop-14-child2,
+.desktop-14-child3 {
+  position: absolute;
+  top: 172px;
+  left: 119px;
+  border-radius: var(--br-6xl);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1206px;
+  height: 563px;
+}
+.desktop-14-child3 {
+  top: 292px;
+  left: 950px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 217px;
+  height: 194px;
+}
+.connect-with-your,
+.directly-upload-from,
+.upload-your-resume {
+  position: absolute;
+  top: 258px;
+  left: 988px;
+  line-height: 25px;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-gray-1100);
+}
+.connect-with-your,
+.directly-upload-from {
+  top: 505px;
+  left: 966px;
+}
+.directly-upload-from {
+  top: 398px;
+  left: 1020px;
+  font-size: var(--font-size-6xs);
+  line-height: 15px;
+  color: var(--color-gray-500);
+  text-align: center;
+}
+.plus-icon {
+  position: absolute;
+  top: 445px;
+  left: 1125px;
+  width: 27px;
+  height: 26px;
+  object-fit: cover;
+}
+.file-upload-icon {
+  position: absolute;
+  top: 358px;
+  left: 1039px;
+  width: 39px;
+  height: 40px;
+  overflow: hidden;
+}
+.desktop-14-child4 {
+  position: absolute;
+  top: 539px;
+  left: 824px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 471px;
+  height: 41px;
+}
+.vector-icon15 {
+  position: absolute;
+  height: 1.77%;
+  width: 1.11%;
+  top: 64.15%;
+  right: 40.49%;
+  bottom: 34.08%;
+  left: 58.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.enter-your-linkedin {
+  position: absolute;
+  top: 554px;
+  left: 867px;
+  font-size: var(--font-size-3xs);
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-gray-1000);
+}
+.desktop-14-child5 {
+  position: absolute;
+  top: 791px;
+  left: 1167px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-lightsteelblue);
+  width: 127px;
+  height: 26px;
+  cursor: pointer;
+}
+.next-section {
+  position: absolute;
+  top: 791px;
+  left: 1191px;
+  font-size: var(--font-size-sm);
+  line-height: 25px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.desktop-14 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 862px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

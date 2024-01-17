@@ -1,0 +1,112 @@
+.find-the-best14,
+.xpitches14 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 50px);
+  text-transform: capitalize;
+}
+.find-the-best14 {
+  top: 26px;
+  left: calc(50% - 51px);
+  font-size: var(--font-size-5xs);
+  font-family: var(--font-rock-salt);
+}
+.xpitches-parent1 {
+  position: absolute;
+  top: 72px;
+  left: calc(50% - 607px);
+  width: 102px;
+  height: 45px;
+  opacity: 0.8;
+}
+.desktop-17-child {
+  position: absolute;
+  top: 192px;
+  left: 270px;
+  border-radius: var(--br-6xl);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 900px;
+  height: 478px;
+}
+.desktop-17-inner,
+.desktop-17-item {
+  position: absolute;
+  border-radius: var(--br-6xl);
+  width: 316px;
+  height: 169px;
+}
+.desktop-17-item {
+  top: 345px;
+  left: 367px;
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+}
+.desktop-17-inner {
+  top: 349px;
+  left: 752px;
+  background-color: var(--color-powderblue);
+}
+.desktop-17-child1,
+.desktop-17-child2 {
+  position: absolute;
+  top: 357px;
+  left: 379px;
+  border-radius: 50%;
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+}
+.desktop-17-child2 {
+  top: 362px;
+  left: 765px;
+}
+.desktop-17-child3 {
+  position: absolute;
+  top: 550px;
+  left: 463px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-powderblue);
+  width: 493px;
+  height: 39px;
+  cursor: pointer;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 604px;
+  left: 580px;
+  font-size: var(--font-size-lg);
+  text-transform: lowercase;
+  color: var(--color-gray-700);
+  text-align: center;
+}
+.join-as-a,
+.join-as-a1 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.join-as-a {
+  top: 558px;
+  left: 646px;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  color: var(--color-gray-800);
+  text-align: center;
+}
+.join-as-a1 {
+  top: 223px;
+  left: calc(50% - 340px);
+  font-size: var(--font-size-31xl);
+}
+.desktop-17 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 862px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

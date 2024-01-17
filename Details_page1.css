@@ -1,0 +1,168 @@
+.desktop-11 {
+  display: flex;
+  position: absolute;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 862px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-1100);
+  font-family: var(--font-roboto);
+}
+
+.find-the-best13,
+.xpitches13 {
+  position: relative;
+  top: -45px;
+  /* left: calc(50% - 50px); */
+  text-transform: capitalize;
+}
+.find-the-best13 {
+  top: -41px;
+  left: calc(50% - 51px);
+  font-size: var(--font-size-5xs);
+  font-family: var(--font-rock-salt);
+}
+.group-div {
+  position: absolute;
+  top: 72px;
+  left: calc(50% - 607px);
+  width: 102px;
+  height: 45px;
+  opacity: 0.8;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+}
+.desktop-11-child,
+.desktop-11-item {
+  position: absolute;
+  top: 175px;
+  left: 118px;
+  border-radius: var(--br-6xl);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1206px;
+  height: 563px;
+}
+.desktop-11-item {
+  top: 357px;
+  left: 790px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 471px;
+  height: 41px;
+}
+.examples,
+.job-post3,
+.lets-start-with,
+.text1 {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.lets-start-with {
+  top: 165px;
+  left: calc(50% - 514px);
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  width: 647px;
+  height: 47px;
+}
+.examples,
+.job-post3,
+.text1 {
+  width: 136px;
+  height: 27px;
+}
+.examples {
+  top: 422px;
+  left: calc(50% + 86px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.job-post3,
+.text1 {
+  top: 449px;
+  left: calc(50% + 72px);
+  font-size: var(--font-size-lg);
+}
+.job-post3 {
+  top: 130px;
+  left: calc(50% - 514px);
+  font-size: var(--font-size-xs);
+  font-family: var(--font-rock-salt);
+  color: var(--color-gray-900);
+  width: 258px;
+  height: 30px;
+}
+.write-a-title,
+.xpitches-help-companies3 {
+  position: absolute;
+  line-height: 25px;
+  text-transform: capitalize;
+}
+.xpitches-help-companies3 {
+  top: 414px;
+  left: 204px;
+  color: var(--color-gray-700);
+  display: inline-block;
+  width: 521px;
+}
+.write-a-title {
+  top: 323px;
+  left: 806px;
+  font-weight: 600;
+}
+.pan-indiasame-as {
+  margin-bottom: 0;
+}
+.xpitches-help-companies-to-pos {
+  margin: 0;
+  padding-left: 20px;
+}
+.xpitches-help-companies-container {
+  position: absolute;
+  top: 445px;
+  left: 784px;
+  font-size: var(--font-inherit);
+  line-height: 25px;
+  text-transform: capitalize;
+  font-family: var(--font-inherit);
+  color: var(--color-gray-700);
+  display: inline-block;
+  width: 425px;
+}
+.desktop-11-inner {
+  position: absolute;
+  top: 632px;
+  left: 119px;
+  width: 260.01px;
+  height: 3px;
+}
+.desktop-11-child1 {
+  position: absolute;
+  top: 790px;
+  left: 1156px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-lightsteelblue);
+  width: 127px;
+  height: 26px;
+  cursor: pointer;
+}
+.next-section3 {
+  position: absolute;
+  top: 790px;
+  left: 1180px;
+  font-size: var(--font-size-sm);
+  line-height: 25px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+
+.next-section3 a{
+  text-decoration: none;
+  color: black;
+}

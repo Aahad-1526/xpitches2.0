@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-roboto: Roboto;
+    --font-rock-salt: "Rock Salt";
+    --font-inherit: inherit;
+  
+    /* font sizes */
+    --font-size-smi: 13px;
+    --font-size-mini: 15px;
+    --font-size-lg: 18px;
+    --font-size-6xl: 25px;
+    --font-size-21xl: 40px;
+    --font-size-xs: 12px;
+    --font-size-mid: 17px;
+    --font-size-5xs: 8px;
+    --font-size-3xl: 22px;
+    --font-size-11xl: 30px;
+    --font-size-lgi: 19px;
+    --font-size-base: 16px;
+    --font-size-3xs: 10px;
+    --font-size-xl: 20px;
+    --font-size-31xl: 50px;
+    --font-size-41xl: 60px;
+    --font-size-51xl: 70px;
+    --font-size-sm: 14px;
+    --font-size-6xs: 7px;
+    --font-size-13xl: 32px;
+    --font-size-16xl: 35px;
+    --font-size-4xs: 9px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray-100: rgba(0, 0, 0, 0.1);
+    --color-gray-200: rgba(0, 0, 0, 0.4);
+    --color-gray-300: rgba(0, 0, 0, 0.75);
+    --color-gray-400: rgba(0, 0, 0, 0.15);
+    --color-gray-500: rgba(0, 0, 0, 0.5);
+    --color-gray-600: rgba(0, 0, 0, 0.05);
+    --color-gray-700: rgba(0, 0, 0, 0.6);
+    --color-gray-800: rgba(0, 0, 0, 0.9);
+    --color-gray-900: rgba(0, 0, 0, 0.7);
+    --color-gray-1000: rgba(0, 0, 0, 0.65);
+    --color-gray-1100: rgba(0, 0, 0, 0.8);
+    --color-palegoldenrod-100: rgba(254, 255, 190, 0.4);
+    --color-palegoldenrod-200: rgba(207, 255, 190, 0.4);
+    --color-powderblue: rgba(190, 239, 255, 0.4);
+    --color-plum-100: rgba(255, 190, 237, 0);
+    --color-plum-200: rgba(255, 190, 237, 0.4);
+    --color-lightyellow: #feffe0;
+    --color-lightsteelblue: rgba(190, 204, 255, 0.4);
+    --color-linen: #fff0e5;
+    --color-black: #000;
+    --color-gainsboro-100: #d9d9d9;
+    --color-gainsboro-200: rgba(217, 217, 217, 0);
+    --color-lavender-100: #cfdafe;
+    --color-lavender-200: rgba(207, 218, 254, 0.5);
+    --color-lavenderblush: #ffe5f8;
+    --color-lightcyan: #d2f4ff;
+  
+    /* Paddings */
+    --padding-base: 16px;
+  
+    /* Border radiuses */
+    --br-6xl: 25px;
+    --br-3xs: 10px;
+  }
+  
